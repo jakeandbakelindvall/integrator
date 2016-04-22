@@ -13,7 +13,7 @@ public class Maths {
 	
 	
 	//Method that takes an end and start location as arguments
-	//draws a mind-point riemann rectangle and computes the sum.
+	//draws a mid-point riemann rectangle and computes the sum.
 	//Is called in "riemann" iteratively with the total integration 
 	//x distance divided by 1,000,000 as the delta x passed in
 	//The hard-coded function will calculate the y values to be passed 
